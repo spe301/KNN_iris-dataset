@@ -1,4 +1,4 @@
-This is a KNN model that classifies what kind of iris a flower is. I coded it up to practice using Sci-Kit learn's StandardScaler, KNeighborsClassifier, and plot_confusion_matrix.
+This is a KNN model that classifies what kind of iris a flower is. I coded it up to practice using Sci-Kit learn's StandardScaler, KNeighborsClassifier, and plot_confusion_matrix functions.
 
 these were my results on the testing data...
 
